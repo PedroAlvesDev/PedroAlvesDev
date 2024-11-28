@@ -4,8 +4,8 @@ Eai! Eu sou o Pedro Henrique
 
 <div style="display: inline_block"><br>
     <a href="https://github.com/PedroAlvesDev" >
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAlvesDev&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlvesDev&show_icons=true&theme=tokyonight"
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=PedroAlvesDev&show_icons=true&theme=tokyonight"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlvesDev&show_icons=true&theme=tokyonight"
 </div>
     
 ##
