@@ -15,3 +15,5 @@ Eai! Eu sou o Pedro Henrique
     <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
+
+![Snake animation](https://github.com/PedroAlvesDev/blob/output/github-contribution-grid-snake.svg)
