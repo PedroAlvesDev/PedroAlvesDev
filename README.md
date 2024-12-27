@@ -1,6 +1,6 @@
 Eai! Eu sou o Pedro Henrique
 
-- 🌱 Atualmente estou aprendendo JavaScript
+- 🔍 Atualmente estou aprendendo JavaScript
 
 <div style="display: inline_block"><br>
     <a href="https://github.com/PedroAlvesDev" >
