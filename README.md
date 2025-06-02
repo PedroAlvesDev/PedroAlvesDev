@@ -1,7 +1,7 @@
 
 <div style="display: inline_block"><br>
     <a href="https://github.com/PedroAlvesDev" >
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAlvesDev&show_icons=true&theme=radical&include_all_commits=true"&cache_seconds="21600"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAlvesDev&show_icons=true&theme=radical&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlvesDev&layout=compact&langs_count=16&theme=radical"/>
 </div>
     
